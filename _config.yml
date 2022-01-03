@@ -92,7 +92,7 @@ content:
           • Performed four missions, all have been used in robots those are commercially available.
           
           • Obtained recommendation letter from the CEO Eng. Wessam. 
-  - title: Projects # Title for the section
+  - title: Project # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -102,7 +102,7 @@ content:
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+            url: https://github.com/abdukhaledi/DigitalThermometer-Device
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
@@ -112,13 +112,17 @@ content:
           •	Designed the circuit and wrote the code in C language
           
           •	Implemented PIC18F4550 microcontroller with LM35 temperature sensor and displayed the temperature on LCD 16x2.
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left          
         title: 16-bit MIPS ALU
  #       link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
  #       link_text: Link Text
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+            url: https://github.com/abdukhaledi/16-bit_MIPS_ALU
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
