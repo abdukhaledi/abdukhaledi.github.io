@@ -70,8 +70,8 @@ content:
         sub_title: Bachelor of Science: Computer Engineering
         caption: 2018 - 2023
         quote: >
-          •	GPA: 3.67 out of 4 "Second Honor"
-          •	Member of IEEE and Computer club.
+          GPA: 3.67 out of 4 "Second Honor"
+          Member of IEEE and Computer club.
 #        description: | # this will include new lines to allow paragraphs
 #          Description of qualification
   - title: Experience
@@ -85,10 +85,10 @@ content:
 #        quote: >
 #          Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          •	Trained as Electronic Engineer.
-          •	Designed circuit, and wrote codes of four projects using Arduino, Tinkercad, and C++ language
-          •	Performed four missions, all have been used in robots those are commercially available.
-          •	Obtained recommendation letter from the CEO Eng. Wessam
+          Trained as Electronic Engineer.
+          Designed circuit, and wrote codes of four projects using Arduino, Tinkercad, and C++ language
+          Performed four missions, all have been used in robots those are commercially available.
+          Obtained recommendation letter from the CEO Eng. Wessam
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
