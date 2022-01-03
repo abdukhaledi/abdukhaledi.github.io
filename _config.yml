@@ -73,6 +73,21 @@ content:
         description: | # this will include new lines to allow paragraphs
           * GPA: 3.67 out of 4 "Second Honor" 
           * Member of IEEE and Computer club.
+  - title: Experience
+    layout: list
+    content:
+      - layout: right
+        title: Smart Methods Company
+        sub_title: Electronic Engineer
+        caption: 6 Jul – 31 Sep 2021
+#        link: https://mecai.org/cr/1000547862021/c/ac/ar.php?id=580120141&&cr=3
+        quote: >
+#          Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          *	Trained as Electronic Engineer.
+          * Designed circuit, and wrote codes of four projects using Arduino, Tinkercad, and C++ language
+          * Performed four missions, all have been used in robots those are commercially available.
+          * Obtained recommendation letter from the CEO Eng. Wessam.  
   - title: Project 1 # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -95,7 +110,8 @@ content:
   - title: Project 2 # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left        title: 16-bit MIPS ALU
+      - layout: left        
+      title: 16-bit MIPS ALU
 #        link: https://github.com/abdukhaledi/DigitalThermometer-Device
 #        link_text: Code
         additional_links:
@@ -110,26 +126,13 @@ content:
         description: | # this will include new lines to allow paragraphs
           * Designed and simulated the circuit of 16-bit MIPS ALU and Control Unit using Logisim-evolution.
           * 16-bit ALU performed AND, OR, add, subtract, NOR and set less than operations. Control Unit performed R-format, lw, sw, beq instructions.
-  - title: Experience
-    layout: list
-    content:
-      - layout: right
-        title: Smart Methods Company
-        sub_title: Electronic Engineer
-        caption: 6 Jul – 31 Sep 2021
-#        link: https://mecai.org/cr/1000547862021/c/ac/ar.php?id=580120141&&cr=3
-        quote: >
-#          Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          *	Trained as Electronic Engineer.
-          * Designed circuit, and wrote codes of four projects using Arduino, Tinkercad, and C++ language
-          * Performed four missions, all have been used in robots those are commercially available.
-          * Obtained recommendation letter from the CEO Eng. Wessam.
-  - title: A Little More About Me
+  - title: Activities
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+      •	Helped students as a tutor in many courses such as Programming Language, Object Oriented Language, and Microcomputers.
+
+      •	Active member in Alpha Team on Twitter with over than 500 followers. Offering help and advice to freshman students in computer majors CS, IS, and CE.
+
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
