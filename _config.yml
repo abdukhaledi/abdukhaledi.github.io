@@ -135,7 +135,7 @@ content:
       •	Active member in Alpha Team on Twitter with over than 500 followers. Offering help and advice to freshman students in computer majors CS, IS, and CE.
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
