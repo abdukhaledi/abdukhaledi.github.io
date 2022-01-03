@@ -78,12 +78,12 @@ content:
     content:
       - layout: left
         title: Digital Thermometer Device
-        link: https://github.com/abdukhaledi/DigitalThermometer-Device
-        link_text: Code
-#        additional_links:
-#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-#            icon: fab fa-github
-#            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+#        link: https://github.com/abdukhaledi/DigitalThermometer-Device
+#        link_text: Code
+        additional_links:
+          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            icon: fab fa-github
+            url: //github.com/abdukhaledi/DigitalThermometer-Device
 #          - title:  Github page for project (eg. sproogen/modern-resume-theme)
 #            icon: fab fa-github
 #            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
@@ -96,15 +96,17 @@ content:
     layout: list
     content:
       - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
+        title: Smart Methods Company
+        sub_title: Electronic Engineer
+        caption: 6 Jul – 31 Sep 2021
+        link: https://mecai.org/cr/1000547862021/c/ac/ar.php?id=580120141&&cr=3
         quote: >
-          Short description of the company (optional)
+#          Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          Description of role
-
+          *	Trained as Electronic Engineer.
+          * Designed circuit, and wrote codes of four projects using Arduino, Tinkercad, and C++ language
+          * Performed four missions, all have been used in robots those are commercially available.
+          * Obtained recommendation letter from the CEO Eng. Wessam.
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
