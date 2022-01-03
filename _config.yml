@@ -97,13 +97,12 @@ content:
     content:
       - layout: top-right
         title: Umm AL-Qura University
-        sub_title: Bachelor of Science
+        sub_title: Bachelor of Science, Computer Engineering
         caption: 2018 - 2023
-        quote: >
-          Computer Engineering
+#        quote: >
         description: | # this will include new lines to allow paragraphs
-          •	GPA: 3.67 out of 4 "Second Honor"
-          •	Member of IEEE and Computer club.
+          * GPA: 3.67 out of 4 "Second Honor" 
+          * Member of IEEE and Computer club.
 
   - title: A Little More About Me
     layout: text
