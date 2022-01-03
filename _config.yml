@@ -53,9 +53,7 @@ linkedin_username: Abdulrahman Khaledi
 about_profile_image: images/me.jpg
 about_content: | # this will include new lines to allow paragraphs
  Detail-oriented computer engineering student with a comprehensive understanding of Embedded Systems and Networks.
- 
  Interested in a summer internship to enhance my skills and to learn production related theories to be applied in
- 
  practical and grow in the field.
 #   You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
 #     - Lists
@@ -64,6 +62,17 @@ about_content: | # this will include new lines to allow paragraphs
 #     - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
+  - title: Education
+    layout: list
+    content:
+      - layout: right
+        title: Umm AL-Qura University
+        sub_title: Bachelor of Science, Computer Engineering
+        caption: 2018 - 2023
+        quote: >
+        description: | # this will include new lines to allow paragraphs
+          * GPA: 3.67 out of 4 "Second Honor" 
+          * Member of IEEE and Computer club.
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -94,17 +103,6 @@ content:
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           Description of role
-  - title: Education
-    layout: list
-    content:
-      - layout: right
-        title: Umm AL-Qura University
-        sub_title: Bachelor of Science, Computer Engineering
-        caption: 2018 - 2023
-        quote: >
-        description: | # this will include new lines to allow paragraphs
-          * GPA: 3.67 out of 4 "Second Honor" 
-          * Member of IEEE and Computer club.
 
   - title: A Little More About Me
     layout: text
