@@ -96,7 +96,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Project name
+        title: Digital Thermometer Device
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         link_text: Link Text
         additional_links:
@@ -109,7 +109,8 @@ content:
         quote: >
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project  - title: Activities
+          Description about the work on/with the project  
+  - title: Activities
     layout: text
     content: | # this will include new lines to allow paragraphs
       •	Helped students as a tutor in many courses such as Programming Language, Object Oriented Language, and Microcomputers.
