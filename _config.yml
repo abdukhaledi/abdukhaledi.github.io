@@ -52,8 +52,8 @@ linkedin_username: Abdulrahman Khaledi
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/me.jpg
 about_content: | # this will include new lines to allow paragraphs
- Detail-oriented computer engineering student with a comprehensive understanding of Embedded Systems and Networks. 
- Interested in a summer internship to enhance my skills and to learn production related theories to be applied in 
+ Detail-oriented computer engineering student with a comprehensive understanding of Embedded Systems and Networks. |
+ Interested in a summer internship to enhance my skills and to learn production related theories to be applied in |
  practical and grow in the field.
 #   You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
 #     - Lists
@@ -70,8 +70,7 @@ content:
         sub_title: Bachelor of Science: Computer Engineering
         caption: 2018 - 2023
         quote: >
-          GPA: 3.67 out of 4 "Second Honor"
-          Member of IEEE and Computer club.
+          GPA: 3.67 out of 4 "Second Honor". Member of IEEE and Computer club.
 #        description: | # this will include new lines to allow paragraphs
 #          Description of qualification
   - title: Experience
@@ -85,8 +84,7 @@ content:
 #        quote: >
 #          Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          Trained as Electronic Engineer.
-          Designed circuit, and wrote codes of four projects using Arduino, Tinkercad, and C++ language
+          Trained as Electronic Engineer. Designed circuit, and wrote codes of four projects using Arduino, Tinkercad, and C++ language
           Performed four missions, all have been used in robots those are commercially available.
           Obtained recommendation letter from the CEO Eng. Wessam
   - title: Projects # Title for the section
