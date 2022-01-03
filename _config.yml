@@ -95,7 +95,7 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top-left
+      - layout: left
         title: Umm AL-Qura University
         sub_title: Bachelor of Science, Computer Engineering
         caption: 2018 - 2023
