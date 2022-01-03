@@ -92,7 +92,8 @@ content:
         description: | # this will include new lines to allow paragraphs
           Designed the circuit and wrote the code in C language. Implemented PIC18F4550 microcontroller 
           with LM35 temperature sensor and displayed the temperature on LCD 16x2.
-#       - layout: left
+    content:
+       - layout: left
         title: 16-bit MIPS ALU
 #        link: https://github.com/abdukhaledi/DigitalThermometer-Device
 #        link_text: Code
