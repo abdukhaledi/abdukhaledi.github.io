@@ -62,31 +62,6 @@ about_content: | # this will include new lines to allow paragraphs
 #     - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
-  - title: Education
-    layout: list
-    content:
-      - layout: top-right
-        title: Umm Al-Qura University
-        sub_title: Bachelor of Science: Computer Engineering
-        caption: 2018 - 2023
-        quote: >
-          GPA: 3.67 out of 4 "Second Honor". Member of IEEE and Computer club.
-#        description: | # this will include new lines to allow paragraphs
-#          Description of qualification
-  - title: Experience
-    layout: list
-    content:
-      - layout: right
-        title: Smart Methods Company
-        sub_title: Electronic Engineer
-        caption: 6 Jul – 31 Sep 2021
-#        link: Link to company (optional)
-#        quote: >
-#          Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          Trained as Electronic Engineer. Designed circuit, and wrote codes of four projects using Arduino, Tinkercad, and C++ language
-          Performed four missions, all have been used in robots those are commercially available.
-          Obtained recommendation letter from the CEO Eng. Wessam
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -105,13 +80,34 @@ content:
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
+  - title: Experience
+    layout: list
+    content:
+      - layout: right
+        title: Company name
+        sub_title: Job title
+        caption: Date Range (eg. November 2016 - present)
+        link: Link to company (optional)
+        quote: >
+          Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of role
+  - title: Education
+    layout: list
+    content:
+      - layout: top-right
+        title: Institution name
+        sub_title: Qualifications (eg. BA Performing Arts)
+        caption: Date Range (eg. 2016 - 2019)
+        quote: >
+          Short institution or course description (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of qualification
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
       This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
       Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
-
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
