@@ -73,7 +73,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           * GPA: 3.67 out of 4 "Second Honor" 
           * Member of IEEE and Computer club.
-  - title: Projects # Title for the section
+  - title: Project 1 # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -92,7 +92,10 @@ content:
         description: | # this will include new lines to allow paragraphs
           Designed the circuit and wrote the code in C language. Implemented PIC18F4550 microcontroller 
           with LM35 temperature sensor and displayed the temperature on LCD 16x2.
-        title: 16-bit MIPS ALU
+  - title: Project 2 # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left        title: 16-bit MIPS ALU
 #        link: https://github.com/abdukhaledi/DigitalThermometer-Device
 #        link_text: Code
         additional_links:
