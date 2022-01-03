@@ -124,6 +124,7 @@ content:
 #          Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           •	Designed and simulated the circuit of 16-bit MIPS ALU and Control Unit using Logisim-evolution.
+          
           •	16-bit ALU performed AND, OR, add, subtract, NOR and set less than operations. Control Unit performed R-format, lw, sw, beq instructions.
           
   - title: Activities
