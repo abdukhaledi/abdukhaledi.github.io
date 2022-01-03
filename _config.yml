@@ -97,8 +97,8 @@ content:
     content:
       - layout: left
         title: Digital Thermometer Device
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
+ #       link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+ #       link_text: Link Text
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
@@ -109,7 +109,25 @@ content:
         quote: >
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project  
+          •	Designed the circuit and wrote the code in C language
+          
+          •	Implemented PIC18F4550 microcontroller with LM35 temperature sensor and displayed the temperature on LCD 16x2.
+        title: 16-bit MIPS ALU
+ #       link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+ #       link_text: Link Text
+        additional_links:
+          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            icon: fab fa-github
+            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            icon: fab fa-github
+            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        quote: >
+          Short overview of the project (optional)
+        description: | # this will include new lines to allow paragraphs
+          •	Designed and simulated the circuit of 16-bit MIPS ALU and Control Unit using Logisim-evolution.
+          •	16-bit ALU performed AND, OR, add, subtract, NOR and set less than operations. Control Unit performed R-format, lw, sw, beq instructions.
+          
   - title: Activities
     layout: text
     content: | # this will include new lines to allow paragraphs
