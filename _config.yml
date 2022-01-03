@@ -72,6 +72,7 @@ content:
         quote: >
         description: | # this will include new lines to allow paragraphs
           • GPA: 3.67 out of 4 "Second Honor" 
+          
           • Member of IEEE and Computer club.
   - title: Experience
     layout: list
@@ -85,48 +86,12 @@ content:
 #          Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           •	Trained as Electronic Engineer.
-          • Designed circuit, and wrote codes of four projects using Arduino, Tinkercad, and C++ language
-          • Performed four missions, all have been used in robots those are commercially available.
-          • Obtained recommendation letter from the CEO Eng. Wessam.  
-  - title: Project 1 # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Digital Thermometer Device
-#        link: https://github.com/abdukhaledi/DigitalThermometer-Device
-#        link_text: Code
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: github.com/abdukhaledi/DigitalThermometer-Device
-#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-#            icon: fab fa-github
-#            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-#          Short overview of the project (optional)
-        description: | # this will include new lines to allow paragraphs
-          • Designed the circuit and wrote the code in C language. Implemented PIC18F4550 microcontroller 
-          • with LM35 temperature sensor and displayed the temperature on LCD 16x2.
-#  - title: Project 2 # Title for the section
-#    layout: list # Type of content section (list/text)
-#    content:
-#      - layout: left        
-#      title: 16-bit MIPS ALU
-#        link: https://github.com/abdukhaledi/DigitalThermometer-Device
-#        link_text: Code
-#        additional_links:
-#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-#            icon: fab fa-github
-#            url: github.com/abdukhaledi/16-bit_MIPS_ALU
-#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-#            icon: fab fa-github
-#            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-#        quote: >
-#          Short overview of the project (optional)
-#        description: | # this will include new lines to allow paragraphs
-#          • Designed and simulated the circuit of 16-bit MIPS ALU and Control Unit using Logisim-evolution.
           
-          • 16-bit ALU performed AND, OR, add, subtract, NOR and set less than operations. Control Unit performed R-format, lw, sw, beq instructions.
+          • Designed circuit, and wrote codes of four projects using Arduino, Tinkercad, and C++ language
+          
+          • Performed four missions, all have been used in robots those are commercially available.
+          
+          • Obtained recommendation letter from the CEO Eng. Wessam.  
   - title: Activities
     layout: text
     content: | # this will include new lines to allow paragraphs
